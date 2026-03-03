@@ -15,13 +15,6 @@ In the code, we convert the height from centimeters to meters before calculating
 
 ---
 
-##  Project Structure
-* `index.html` - The UI structure and input fields.
-* `style.css` - Custom styling for a modern look.
-* `script.js` - The calculation logic and DOM manipulation.
-
----
-
 ##  How to Use
 1.  Enter your **height** in centimeters (e.g., 180).
 2.  Enter your **weight** in kilograms (e.g., 75).
