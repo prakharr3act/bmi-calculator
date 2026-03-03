@@ -2,12 +2,6 @@
 
 A sleek, functional **Body Mass Index (BMI) Calculator** built with Vanilla JavaScript. This project provides a simple interface for users to calculate their BMI based on height (cm) and weight (kg).
 
-##  Live Demo
-Check out the live application here:  
-**[Insert your GitHub Pages link here]**
-
----
-
 
 ---
 
