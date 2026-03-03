@@ -8,11 +8,6 @@ Check out the live application here:
 
 ---
 
-## 🛠️ Features
-* **Instant Calculation:** Computes results immediately on click.
-* **Metric Support:** Designed for height in centimeters and weight in kilograms.
-* **Precision Output:** Results are formatted to two decimal places for clarity.
-* **Clean Logic:** Built with optimized, readable JavaScript.
 
 ---
 
@@ -41,8 +36,3 @@ In the code, we convert the height from centimeters to meters before calculating
 
 ---
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-*Created by [Your Name]*
